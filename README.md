@@ -1,5 +1,5 @@
 Para executar o projeto:
-
+<p>Clone esse projeto na pasta desejada</p>
 <p>Execute o comando "composer install".</p>
 <p>Renomeie o arquivo ".env.example" para ".env".</p>
 <p>Crie o banco com o nome "laravel"</p>
